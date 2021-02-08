@@ -1,0 +1,17 @@
+.app{
+    display:grid;
+    place-items:center;
+    height:max-content;
+   background-color:black;
+   
+    
+}
+.appBody{
+    display: flex;
+    background-color: #ededed;
+    margin-top: 50px;
+    height: max-content;
+    width: 90vw;
+    
+    
+}

@@ -1,0 +1,48 @@
+.header{
+    width:45px;
+}
+
+.searchBar{
+
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    border-top: 1px solid rgb(70, 55, 55);
+    outline-width: 0;
+    border-radius: 30px;
+    padding-left: 0;
+    text-align: center;
+    text-emphasis:  20px;;
+    font-size: 60px;
+    background-color:chocolate;
+    cursor: auto;
+    transform: scale(1.0);
+         
+}
+
+.searchBar:hover{
+    color: #000;
+    background-color: #e6e6e6;
+    transition: all 0.2s;
+}
+.countryName{
+    padding-left: 30px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkcyan;
+    align-content: center;
+}
+.name{
+    overflow-inline: 30px;
+    text-align: center;
+    padding: 5px;
+   
+}
+
+
+
+  
+
+  
+
